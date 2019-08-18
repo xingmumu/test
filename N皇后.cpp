@@ -10,7 +10,7 @@ using namespace std;
 
 static int n, x[1000];
 static long sum;
-
+//first change 
 /*
 判断第k个后能不能放在x[k]处
 两个皇后不能放在统一斜线上：
